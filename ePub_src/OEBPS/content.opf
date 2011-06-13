@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:date opf:event="modification">2011-03-18</dc:date>
+        <dc:title>Informe APEI sobre web social</dc:title>
+        <dc:format>epub</dc:format>
+        <dc:identifier opf:scheme="ISBN">978-84-691-7726-6</dc:identifier>
+        <dc:rights>Creative Commons Public Domain</dc:rights>
+        <dc:subject>Web 2.0</dc:subject>
+        <dc:subject>Web social</dc:subject>
+        <dc:subject>Biblioteca 2.0</dc:subject>
+        <dc:creator opf:role="aut" opf:file-as="Margaix Arnal, Dídac">Dídac Margaix Arnal</dc:creator>
+        <dc:type>Book</dc:type>
+        <dc:contributor opf:role="edt" opf:file-as="Merlo Vega, José Antonio">José Antonio Merlo Vega</dc:contributor>
+        <dc:date opf:event="creation">2008-03-18</dc:date>
+        <dc:publisher>APEI. Asociación Profesional de Especialistas en Información</dc:publisher>
+        <dc:language>es</dc:language>
+        <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:b7a45924-1d77-4f47-a378-5df784b80f1d</dc:identifier>
+        <meta name="cover" content="INF-1-053.jpg"/>
+        <meta name="Sigil version" content="0.3.4"/>
+    </metadata>
+    <manifest>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="DejaVuSerif.otf" href="Fonts/DejaVuSerif.otf" media-type="application/vnd.ms-opentype"/>
+        <item id="INF-1-000.jpg" href="Images/INF-1-000.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-001.jpg" href="Images/INF-1-001.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-002.jpg" href="Images/INF-1-002.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-003.jpg" href="Images/INF-1-003.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-004.jpg" href="Images/INF-1-004.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-005.jpg" href="Images/INF-1-005.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-006.jpg" href="Images/INF-1-006.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-007.jpg" href="Images/INF-1-007.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-018.jpg" href="Images/INF-1-018.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-019.jpg" href="Images/INF-1-019.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-020.jpg" href="Images/INF-1-020.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-021.jpg" href="Images/INF-1-021.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-022.jpg" href="Images/INF-1-022.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-023.jpg" href="Images/INF-1-023.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-024.jpg" href="Images/INF-1-024.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-028.jpg" href="Images/INF-1-028.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-029.jpg" href="Images/INF-1-029.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-030.jpg" href="Images/INF-1-030.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-031.jpg" href="Images/INF-1-031.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-032.jpg" href="Images/INF-1-032.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-033.jpg" href="Images/INF-1-033.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-034.jpg" href="Images/INF-1-034.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-035.jpg" href="Images/INF-1-035.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-036.jpg" href="Images/INF-1-036.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-037.jpg" href="Images/INF-1-037.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-038.jpg" href="Images/INF-1-038.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-039.jpg" href="Images/INF-1-039.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-040.jpg" href="Images/INF-1-040.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-041.jpg" href="Images/INF-1-041.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-042.jpg" href="Images/INF-1-042.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-043.jpg" href="Images/INF-1-043.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-044.jpg" href="Images/INF-1-044.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-045.jpg" href="Images/INF-1-045.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-046.jpg" href="Images/INF-1-046.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-047.jpg" href="Images/INF-1-047.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-048.jpg" href="Images/INF-1-048.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-049.jpg" href="Images/INF-1-049.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-050.jpg" href="Images/INF-1-050.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-051.jpg" href="Images/INF-1-051.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-052.jpg" href="Images/INF-1-052.jpg" media-type="image/jpeg"/>
+        <item id="INF-1-053.jpg" href="Images/INF-1-053.jpg" media-type="image/jpeg"/>
+        <item id="favoritos.jpg" href="Images/favoritos.jpg" media-type="image/jpeg"/>
+        <item id="publicaciones1.jpg" href="Images/publicaciones1.jpg" media-type="image/jpeg"/>
+        <item id="publicaciones2.jpg" href="Images/publicaciones2.jpg" media-type="image/jpeg"/>
+        <item id="style.css" href="Styles/style.css" media-type="text/css"/>
+        <item id="Agradecimientos.xhtml" href="Text/Agradecimientos.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Ch01.xhtml" href="Text/Ch01.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Ch02.xhtml" href="Text/Ch02.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Contraportada.xhtml" href="Text/Contraportada.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Cubierta.xhtml" href="Text/Cubierta.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Indice.xhtml" href="Text/Indice.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Portada.xhtml" href="Text/Portada.xhtml" media-type="application/xhtml+xml"/>
+        <item id="autor.xhtml" href="Text/autor.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch03.xhtml" href="Text/ch03.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch04.xhtml" href="Text/ch04.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch05.xhtml" href="Text/ch05.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch06.xhtml" href="Text/ch06.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch07.xhtml" href="Text/ch07.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch08.xhtml" href="Text/ch08.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch09.xhtml" href="Text/ch09.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch10.xhtml" href="Text/ch10.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch11.xhtml" href="Text/ch11.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch12.xhtml" href="Text/ch12.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch13.xhtml" href="Text/ch13.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch14.xhtml" href="Text/ch14.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch15.xhtml" href="Text/ch15.xhtml" media-type="application/xhtml+xml"/>
+        <item id="colophon.xhtml" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="Cubierta.xhtml"/>
+        <itemref idref="Agradecimientos.xhtml"/>
+        <itemref idref="Portada.xhtml"/>
+        <itemref idref="Contraportada.xhtml"/>
+        <itemref idref="Indice.xhtml"/>
+        <itemref idref="Ch01.xhtml"/>
+        <itemref idref="Ch02.xhtml"/>
+        <itemref idref="ch03.xhtml"/>
+        <itemref idref="ch04.xhtml"/>
+        <itemref idref="ch05.xhtml"/>
+        <itemref idref="ch06.xhtml"/>
+        <itemref idref="ch07.xhtml"/>
+        <itemref idref="ch08.xhtml"/>
+        <itemref idref="ch09.xhtml"/>
+        <itemref idref="ch10.xhtml"/>
+        <itemref idref="ch11.xhtml"/>
+        <itemref idref="ch12.xhtml"/>
+        <itemref idref="ch13.xhtml"/>
+        <itemref idref="ch14.xhtml"/>
+        <itemref idref="ch15.xhtml"/>
+        <itemref idref="autor.xhtml"/>
+        <itemref idref="colophon.xhtml"/>
+    </spine>
+    <guide>
+        <reference type="cover" title="Cover" href="Text/Cubierta.xhtml"/>
+        <reference type="acknowledgements" title="Acknowledgements" href="Text/Agradecimientos.xhtml"/>
+        <reference type="copyright-page" title="Copyright Page" href="Text/Contraportada.xhtml"/>
+        <reference type="index" title="Index" href="Text/Indice.xhtml"/>
+    </guide>
+</package>
