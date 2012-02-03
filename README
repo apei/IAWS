@@ -1,7 +1,9 @@
-En este repositorio se encuentran disponibles los contenidos del Informe Apei sobre web social.
+En este repositorio se encuentran disponibles los contenidos del Informe Apei sobre Web Social.
 
 Los contenidos están distribuidos de la siguiente forma:
 - ePub: Directorio que contiene el documento en formato ePub del informe
+- mobi: Directorio que contiene el informe en formato .mobi para Kindle
 - ePub_src: Directorio que contiene la estructura de carpetas, documentos, imágenes y fuentes necesarias para la creación de documento en formato ePub
 
 Estos contenidos, al igual que el propio Informe Apei sobre Web Social se distribuye bajo licencia Creative Commons.
+Esta obra está bajo una licencia Reconocimiento-No comercial-Compartir bajo la misma licencia 2.5 España de Creative Commons: http://creativecommons.org/licenses/by-nc-sa/2.5/es.
